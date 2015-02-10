@@ -1,0 +1,8 @@
+.layout-grid-columns {
+	padding-left: 0px;
+	padding-right: 0px;
+
+	@media #{$medium-up} {
+		@include grid-column(12);
+	}
+}

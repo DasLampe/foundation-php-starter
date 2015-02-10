@@ -1,0 +1,9 @@
+vendor/
+cache/*/
+config/config.php
+config/*.conf.php
+
+composer.lock
+composer.phar
+
+components/
